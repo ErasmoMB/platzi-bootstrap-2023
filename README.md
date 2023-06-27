@@ -31,7 +31,7 @@ con Bootstrap en sus propios proyectos.
 * [Portafolio web](https://checas.com.pe/)
 
 ##  Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+- [https://erasmomb.github.io/platzi-bootstrap-2023/](https://erasmomb.github.io/platzi-bootstrap-2023/)
 
 ##  Instalación
 * Clona el repositorio
