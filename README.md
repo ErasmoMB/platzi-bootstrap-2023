@@ -41,6 +41,5 @@ con Bootstrap en sus propios proyectos.
 Si quieres contratarme puedes escribirme a montufarbe@gmail.com para consultas.
 
 ##  Licencia 📃
-Este proyecto está bajo la Licencia MIT
-No puede usarse comercialmente.
+Este proyecto está bajo la Licencia MIT y no puede usarse comercialmente.
 
