@@ -27,11 +27,11 @@ con Bootstrap en sus propios proyectos.
 ##  Autor -
 **Erasmo Montufar**
 
-* [LinkedIn] (https://www.linkedin.com/in/erasmomb/)
-* [Portafolio web] (https://checas.com.pe/)
+* [LinkedIn](https://www.linkedin.com/in/erasmomb/)
+* [Portafolio web](https://checas.com.pe/)
 
 ##  Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
 
 ##  Instalación
 * Clona el repositorio
